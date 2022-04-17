@@ -5,6 +5,8 @@
 [![Download](https://img.shields.io/github/downloads/nining377/dolby_beta/total)](https://github.com/nining377/dolby_beta/releases/latest)
 [![License](https://img.shields.io/github/license/nining377/dolby_beta?label=License)](https://choosealicense.com/licenses/mit/)
 
+1
+
 #### 杜比大喇叭β是一款网易云音乐的音源代理模块，初衷只是我对网易云音乐的热爱，希望让更多的人使用网易云。
 #### 模块工作原理为音源替换而非破解，所以单曲付费与无版权歌曲有几率匹配错误，真心支持歌手请付费！
 #### 模块工作原理为音源替换而非破解，所以单曲付费与无版权歌曲有几率匹配错误，真心支持歌手请付费！
